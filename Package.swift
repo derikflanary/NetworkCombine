@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "network-combine-stack",
+    name: "NetworkCombine",
     platforms: [
       .iOS(.v13)
     ],
